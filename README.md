@@ -1,1 +1,7 @@
-Requirement: http://zabbixapi.confirm.ch/
+Zabbix Monitor PHP
+==================
+
+Requirement
+-----------
+
+http://zabbixapi.confirm.ch/
